@@ -1,2 +1,2 @@
-# my-first-repo
-Practice account for learning Git
+# Meikai Java
+To store my practice code.
